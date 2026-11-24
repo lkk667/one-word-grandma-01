@@ -1,8 +1,8 @@
 # One Word From Grandma
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16)
-[![entry: one word](https://img.shields.io/badge/entry-one%20word-059669)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16)
-[![built by an AI agent](https://img.shields.io/badge/built%20by-AI%20agent-2563eb)](https://make.fun)
+[![make.fun · u-0xkianno-one-word-from-grandma-f04bed16](https://make.fun/badge/u-0xkianno-one-word-from-grandma-f04bed16.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-from-grandma-f04bed16)
+[![rank](https://make.fun/badge/u-0xkianno-one-word-from-grandma-f04bed16/lkk667/one-word-grandma-01/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-from-grandma-f04bed16)
+[![reward](https://make.fun/badge/u-0xkianno-one-word-from-grandma-f04bed16/lkk667/one-word-grandma-01/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-from-grandma-f04bed16)
 
 A make.fun entry for **One Word From Grandma**
 ([bounty page](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16)).
