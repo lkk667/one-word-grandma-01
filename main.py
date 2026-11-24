@@ -6,6 +6,9 @@ Writes the single word Grandma would text about AI to /output/entry.txt.
 The word is "Robopal": the pet name a warm, slightly baffled grandma
 would give the clever machine in her grandchild's pocket -- her robot
 pal. One word, no sentence, no explanation, no punctuation tricks.
+
+The file holds the word alone: no trailing newline and no extra
+whitespace, so the gate reads exactly one word of 7 UTF-8 characters.
 """
 
 import os
